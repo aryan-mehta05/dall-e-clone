@@ -1,3 +1,0 @@
-mongoDB:
-user => aryan-mehta
-pwd => Nimesh09
